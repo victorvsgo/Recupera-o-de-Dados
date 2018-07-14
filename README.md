@@ -1,1 +1,4 @@
-# Recupera-o-de-Dados
+# Recuperaco-de-Dados
+
+Victor Silva de Oliveira
+Yago Barros Barcelos
